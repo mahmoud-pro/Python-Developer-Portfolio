@@ -19,3 +19,4 @@ Student Management System;A desktop PyQt6 GUI app for managing university studen
 School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
 Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
 Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
+Micro Blog;A Flask micro blog app where users can create blog posts and save it on database.;https://github.com/mahmoud-pro/micro-blog-app;22.png
